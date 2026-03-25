@@ -39,23 +39,23 @@ Language:
 - [GDScript](https://github.com/EloiStree/HelloGodotXR/issues/213) 1 
 - [Python](https://github.com/EloiStree/HelloGodotXR/issues/83) 2+ 
 - [Rust](https://github.com/EloiStree/HelloGodotXR/issues/214) for fun 💘 
+- [Scratch](https://github.com/EloiStree/HelloScratchToGodot/issues)
 
 Hardware:
 - [CNC 3018](https://github.com/EloiStree/HelloFabLabMachine/issues/2)
 - [Laser Cutter](https://github.com/EloiStree/HelloFabLabMachine/issues/6)
 - [Vinhil Cutter](https://github.com/EloiStree/HelloFabLabMachine/issues/5)
-- 3D Printer
-- Quest 3
-- Steam Deck
-- Steam Frame*
-- Raspberry Pi x12+
-- HTTPS Hosted Raspberry Pi
-- Raspberry Pi Pico x40x
-- NES 96+
-- Micro:bit x4
+- [3D Printer](https://github.com/EloiStree/HelloFabLabMachine/issues/7)
+- [Quest 3](https://github.com/EloiStree/HelloFabLabMachine/issues/7)
+- [Steam Deck](https://github.com/EloiStree/HelloGodotXR/issues/220)
+- [Steam Frame](https://github.com/EloiStree/HelloGodotXR/issues/159)*
+- [Raspberry Pi](https://github.com/EloiStree/HelloInput/issues/308) x12+
+- [Raspberry Pi Pico](https://github.com/EloiStree/HelloInput/issues/41) x40
+- [NES 96+](https://github.com/EloiStree/HelloInput/issues/330)
+- [Micro:bit](https://github.com/EloiStree/HelloInput/issues/21) x4
 - [Keyestudio Kit](https://github.com/EloiStree/HelloFabLabMachine/issues/4)
 - [QWERTY Keyboard Mouse x12](https://github.com/EloiStree/HelloGodotXR/issues/162)
-- Android Tablette x8
+- [Android Tablette x8](https://github.com/EloiStree/HelloGodotXR/issues/219)
 - 12x [Low cost camera](https://github.com/EloiStree/HelloInput/issues/326)
 - 12+ [MiraBox video capture](https://github.com/EloiStree/HelloInput/issues/319)
 - 12+ [Arduino Leonardo](https://github.com/EloiStree/HelloInput/issues/38)
