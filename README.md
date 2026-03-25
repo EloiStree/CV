@@ -1,47 +1,51 @@
+[💻 Code Section](https://github.com/EloiStree/HelloGodotCode) - [🚂 Engine Section](https://github.com/EloiStree/HelloGodotEngineKeyword) - [🕹️🎮 Hacking Game](https://github.com/EloiStree/HelloGodotRemoteControlHub) - [👓 XR Section](https://github.com/EloiStree/HelloGodotXR)  - [🍓 Raspberry Pi](https://github.com/EloiStree/HelloRaspberryPi) - [🥽Quest3](https://github.com/EloiStree/HelloQuest3) - [🍺🍻](https://buymeacoffee.com/apintio)
+
+------------------------------
+
 # CV
 
-Name: Éloi Strée
-Title: Code, Unity3D & Godot Teacher
+**Name:** Éloi Strée
+**Title:** Code, Unity3D & Godot Teacher
 
-Software:
-- [Godot Engine](https://github.com/EloiStree/HelloGodotXR/issues/132)  
-- [Krita](https://github.com/EloiStree/HelloGodotXR/issues/129) 
-- [InkScape](https://github.com/EloiStree/HelloGodotXR/issues/137) 
-- [LightBurn](https://github.com/EloiStree/HelloGodotXR/issues/208) 
-- [Unity 12+](https://github.com/EloiStree/HelloGodotXR/issues/209) 
-- [ADB](https://github.com/EloiStree/HelloGodotXR/issues/85) 
-- [SCRCPY](https://github.com/EloiStree/HelloGodotXR/issues/119) 
-- [Visual Studio Code](https://github.com/EloiStree/HelloGodotXR/issues/157) 
-- [Audacity](https://github.com/EloiStree/HelloGodotXR/issues/131) 
-- [Arduino IDE](https://github.com/EloiStree/HelloGodotXR/issues/210) 
-- [Git](https://github.com/EloiStree/HelloGodotXR/issues/78) 
-- [GitHub](https://github.com/EloiStree/HelloGodotXR/issues/108)  
-- [Fork](https://github.com/EloiStree/HelloGodotXR/issues/109) 
-- [Fusion 360](https://github.com/EloiStree/HelloGodotXR/issues/181) 
-- [Steam Link](https://github.com/EloiStree/HelloGodotXR/issues/79) 
-- [Virtual Desktop](https://github.com/EloiStree/HelloGodotXR/issues/105)  
-- [OBS](https://github.com/EloiStree/HelloGodotXR/issues/133)  
-- [Fusion 360](https://github.com/EloiStree/HelloGodotXR/issues/181)  
-- [SideQuest](https://github.com/EloiStree/HelloGodotXR/issues/118)  
-- [Unity Ready To Work](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/152)
-- [FFMPEG](https://github.com/EloiStree/HelloGodotXR/issues/211)
-- [Termux](https://github.com/EloiStree/HelloGodotXR/issues/141)
-- [F-Droid](https://github.com/EloiStree/HelloGodotXR/issues/140)
+**Software:**
+- [ ] [Godot Engine](https://github.com/EloiStree/HelloGodotXR/issues/132)  
+- [ ]  [Krita](https://github.com/EloiStree/HelloGodotXR/issues/129) 
+- [ ]  [InkScape](https://github.com/EloiStree/HelloGodotXR/issues/137) 
+- [ ]  [LightBurn](https://github.com/EloiStree/HelloGodotXR/issues/208) 
+- [ ]  [Unity 12+](https://github.com/EloiStree/HelloGodotXR/issues/209) 
+- [ ]  [ADB](https://github.com/EloiStree/HelloGodotXR/issues/85) 
+- [ ]  [SCRCPY](https://github.com/EloiStree/HelloGodotXR/issues/119) 
+- [ ]  [Visual Studio Code](https://github.com/EloiStree/HelloGodotXR/issues/157) 
+- [ ]  [Audacity](https://github.com/EloiStree/HelloGodotXR/issues/131) 
+- [ ]  [Arduino IDE](https://github.com/EloiStree/HelloGodotXR/issues/210) 
+- [ ]  [Git](https://github.com/EloiStree/HelloGodotXR/issues/78) 
+- [ ]  [GitHub](https://github.com/EloiStree/HelloGodotXR/issues/108)  
+- [ ]  [Fork](https://github.com/EloiStree/HelloGodotXR/issues/109) 
+- [ ]  [Fusion 360](https://github.com/EloiStree/HelloGodotXR/issues/181) 
+- [ ]  [Steam Link](https://github.com/EloiStree/HelloGodotXR/issues/79) 
+- [ ]  [Virtual Desktop](https://github.com/EloiStree/HelloGodotXR/issues/105)  
+- [ ]  [OBS](https://github.com/EloiStree/HelloGodotXR/issues/133)  
+- [ ]  [Fusion 360](https://github.com/EloiStree/HelloGodotXR/issues/181)  
+- [ ]  [SideQuest](https://github.com/EloiStree/HelloGodotXR/issues/118)  
+- [ ]  [Unity Ready To Work](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/152)
+- [ ]  [FFMPEG](https://github.com/EloiStree/HelloGodotXR/issues/211)
+- [ ]  [Termux](https://github.com/EloiStree/HelloGodotXR/issues/141)
+- [ ]  [F-Droid](https://github.com/EloiStree/HelloGodotXR/issues/140)
    
-OS:
+**OS:**
 - [Raspberry Pi OS](https://github.com/EloiStree/HelloRaspberryPi), 
 - [Steam OS](https://store.steampowered.com/steamos/?l=french)  
 - [Window 10/11](https://www.microsoft.com/fr-fr/software-download/windows11) 
 - [Android / Meta Quest3 OS](https://developers.meta.com/horizon/) 
   
-Language:
+**Language:**
 - [C#](https://github.com/EloiStree/HelloGodotXR/issues/212) 12+  ?reload=1
 - [GDScript](https://github.com/EloiStree/HelloGodotXR/issues/213) 1 
 - [Python](https://github.com/EloiStree/HelloGodotXR/issues/83) 2+ 
 - [Rust](https://github.com/EloiStree/HelloGodotXR/issues/214) for fun 💘 
 - [Scratch](https://github.com/EloiStree/HelloScratchToGodot/issues)
 
-Hardware:
+**Hardware:**
 - [CNC 3018](https://github.com/EloiStree/HelloFabLabMachine/issues/2)
 - [Laser Cutter](https://github.com/EloiStree/HelloFabLabMachine/issues/6)
 - [Vinhil Cutter](https://github.com/EloiStree/HelloFabLabMachine/issues/5)
@@ -51,7 +55,7 @@ Hardware:
 - [Steam Frame](https://github.com/EloiStree/HelloGodotXR/issues/159)*
 - [Raspberry Pi](https://github.com/EloiStree/HelloInput/issues/308) x12+
 - [Raspberry Pi Pico](https://github.com/EloiStree/HelloInput/issues/41) x40
-- [NES 96+](https://github.com/EloiStree/HelloInput/issues/330)
+- [NES](https://github.com/EloiStree/HelloInput/issues/330) x72+
 - [Micro:bit](https://github.com/EloiStree/HelloInput/issues/21) x4
 - [Keyestudio Kit](https://github.com/EloiStree/HelloFabLabMachine/issues/4)
 - [QWERTY Keyboard Mouse x12](https://github.com/EloiStree/HelloGodotXR/issues/162)
@@ -62,7 +66,7 @@ Hardware:
 - 12+ [ESP32S3](https://github.com/EloiStree/HelloInput/issues/320)
 - Kinect [1](https://github.com/EloiStree/HelloInput/issues/327)/[2](https://github.com/EloiStree/HelloInput/issues/328)
 
-Fun Topic:
+**Fun Topic:**
 - [Input Hacking](https://github.com/EloiStree/HelloInput)
 - [Job System](https://github.com/EloiStree/HelloGodotXR/issues/216) 
 - [Compute Shader](https://github.com/EloiStree/HelloGodotXR/issues/215)
@@ -73,7 +77,7 @@ Fun Topic:
 - [80+ Hackathon / Gamejam](https://github.com/users/EloiStree/projects/21)
 - [Code Tournament](https://github.com/EloiStree/APIntCodeTournamentGodotMiniGames)
 
-Timeline
+**Timeline**
 - Learning Unity 2010 2012
 - Internships 2013 2014
 - Freelance and R&D 2015-2016
@@ -82,10 +86,15 @@ Timeline
 - Unity3D and XR Teacher 2023-2025
 - Coding & Godot Teacher 2026-2030 
 
-Youtube:
+**Youtube:**
 - [Teaching](https://www.youtube.com/@EloiTeaching)
 - [@eloistreeraw](https://www.youtube.com/@eloistreeraw): 
 
+**Skills:**
+- [RTFM](https://github.com/EloiStree/HelloSharpForUnity3D/issues/475)
+- [LMGTFY](https://github.com/EloiStree/HelloSharpForUnity3D/issues/595)
+- [Curiosity](https://www.youtube.com/@eloistreeraw)
+- [Teaching](https://www.youtube.com/@EloiTeaching)
 
 **À travailler par le passé :**
 
@@ -98,7 +107,7 @@ Youtube:
 * [MolenGeek](https://molengeek.com)  
 * [Girleek](https://girleek.tech) 
 
-Teaching:
+**Teaching:**
 - [This Year](https://github.com/EloiStree/TeachingThisYear) 
 - [In the past](https://github.com/EloiStree/Teaching)
 
