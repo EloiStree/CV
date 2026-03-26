@@ -114,5 +114,30 @@
 - [This Year](https://github.com/EloiStree/TeachingThisYear) 
 - [In the past](https://github.com/EloiStree/Teaching)
 
+
+
+  ---------
+
+**Diplôme dans la matière liée au thème de la formation Oui / Non**:
+- CESS Math 2009 – St. Ferrières Math Science Fort ([Site](https://www.saintrochferrieres.be))
+- Java Standard Edition 6 Programmer Certified Professional Exam (Émise le juin 2013 Identifiant du diplôme : [1Z0-851](https://www.epractizelabs.com/certification/sun/scjp-exam-6.html))
+
+**Titre pédagogique (CAP, agrégation…) Oui / Non**: Non
+**Expérience professionnelle liée au thème de la  formation**:
+- Passer : https://github.com/eloistree/teaching
+- Present: https://github.com/eloistree/teachingThisYear
+
+**Expérience en tant que formateur (Nombre de jours prestés les trois dernières années en tant que formateur)**: 
+- 2-4 mois par an. Minimum 60 jours (20 jours x 2 mois x 3 ans)
+
+**Exemple de module de cours dispensé (Détail du module le plus représentatif : intitulé, durée, public cible, lieu)**:
+- Passer : https://github.com/eloistree/teaching
+  
+**Expérience pédagogique pour un public adulte Oui / Non**:
+- Oui
+  
+**Le CV détaillé a été remis dans l’offre Oui**
+- CV de compence aquise et enseignee en cours A4 [PDF](https://github.com/EloiStree/CV/blob/main/2026_03_25_eloi_stree_cv.pdf)
+
   
 
