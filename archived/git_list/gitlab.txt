@@ -1,4 +1,4 @@
-git clone https://gitlab.com/eloistree/2019_08_30_PostItVR            
+git clone https://gitlab.com/eloistree/2019_08_30_PostItVR.git            
 git clone https://gitlab.com/eloistree/2019_08_26_linecolliders.git
 git clone https://gitlab.com/eloistree/2019_08_30_PostIt.git
 git clone https://gitlab.com/eloistree/2019_11_01_OculusInputCompressed.git
