@@ -128,7 +128,7 @@
 - Present: https://github.com/eloistree/teachingThisYear
 
 **Expérience en tant que formateur (Nombre de jours prestés les trois dernières années en tant que formateur)**: 
-- 2-4 mois par an. Minimum 60 jours (20 jours x 2 mois x 3 ans)
+- 2-4 mois par an. Minimum 120 jours (20 jours x 2 mois x 3 ans)
 
 **Exemple de module de cours dispensé (Détail du module le plus représentatif : intitulé, durée, public cible, lieu)**:
 - Passer : https://github.com/eloistree/teaching
