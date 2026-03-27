@@ -2,6 +2,9 @@
 
 ------------------------------
 
+![Eloi Teaching Log CV](https://github.com/EloiStree/CV/blob/bee28430135a21041c6c8dace9776d9322f61cab/2026_03_25_eloi_stree_cv.jpg)
+
+
 # CV
 
 **Name:** Éloi Strée
