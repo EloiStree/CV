@@ -2,7 +2,8 @@
 
 ------------------------------
 
-![Eloi Teaching Log CV](https://github.com/EloiStree/CV/blob/bee28430135a21041c6c8dace9776d9322f61cab/2026_03_25_eloi_stree_cv.jpg)
+![Eloi Skills CV](https://github.com/EloiStree/CV/blob/bee28430135a21041c6c8dace9776d9322f61cab/2026_03_25_eloi_stree_cv.jpg)
+![Eloi Teach Log CV](https://github.com/EloiStree/CV/blob/b7a2d89bd02055757714fcb5d965e269df1bad0b/2026_03_25_eloi_stree_cv_log_public.jpg)
 
 
 # CV
